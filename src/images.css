@@ -1,0 +1,21 @@
+.Video>div{
+    
+    display: flex;
+    height:30%;
+   
+    margin-left: 10%;
+    background: rgb(248, 250, 248);
+
+}
+.Video>div>a>img{ 
+    
+    width: 55%;
+}
+
+.Video>div>a{
+    margin-left:4%;
+    font-size: 1.2vw;
+
+    color: rgb(96, 95, 95);
+    text-decoration: none;
+}
